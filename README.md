@@ -4,7 +4,7 @@ _________________________________________________________________________
 
 🌍**About the Project**
 
-This project demonstrates how AI can be used to scan ESG or Sustainability Reports, identify missing or weak disclosures, and provide targeted suggestions based on ESG rating frameworks like MSCI and Sustainalytics.
+This project demonstrates how AI can be used to scan ESG or Sustainability Reports, identify missing or weak disclosures, and provide targeted suggestions based on ESG rating frameworks like MSCI.
 
 
 **It is designed for:**
