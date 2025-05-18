@@ -16,10 +16,10 @@ Students or early professionals building an AI-ESG portfolio
 
 **🎯 Objectives**
 
-✅ Scan corporate ESG reports (PDF or text) using AI
-✅ Detect disclosures related to ESG rating criteria
+✅ Scan corporate ESG reports (PDF) using AI
+✅ Detect disclosures related to ESG rating criteria 
 ✅ Score the quality and completeness of disclosure
-✅ Suggest improvements to enhance ESG scores
+✅ Suggest improvements to enhance ESG scores (if any)
 
 
 **📬 Contact**
