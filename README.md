@@ -35,10 +35,10 @@ This project demonstrates how AI can be used to scan ESG or Sustainability Repor
 
 **📬 Lesson Learnt**
 18/05/2025: 
--Learnt how to develop simple, beginner-friendly ESG analysis code using Google Colab — suitable for non-coders and ESG analysts.
+-Learnt how to develop simple, beginner-friendly ESG analysis code using Google Colab — suitable for non-coders and ESG analysts. The prompt only sends the first 3000 characters of the report to avoid input limits.
 -Successfully combined manual uploads (PDF for reports + Excel for ESG criteria) with automated AI analysis.
 -Explored how to use OpenAI’s gpt-3.5-turbo model, which is available for free, to perform ESG gap assessments and disclosure analysis.
 
 **🔜 Next Steps**
--Explore the use of Hugging Face (https://huggingface.co/spaces) as an alterntaive to Open AI in this model
+-Explore the use of Hugging Face (https://huggingface.co/spaces) as an alterntaive to Open AI in this model. The prompt only sends the first 2000 characters of the report and the first 10 criteria to avoid input limits.
 -Enhance MSCI ESG criteria for a more comprehensive analysis
